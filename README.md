@@ -53,4 +53,4 @@ Welcome to my GitHub profile! I love creating modern, interactive, and visually 
 
 ---
 
-💬 _"Design is not just what it looks like and feels like — design is how it works."_ — *Steve Jobs*
+💬 _"Experiment. Fail. Learn. Repeat. Freedom is the ultimate algorithm."_ — *ME*
